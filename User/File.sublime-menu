@@ -1,0 +1,12 @@
+[
+    {
+        "caption": "Add file to .gitignore",
+        "command": "git",
+        "args": { "argv": ["smerge-ignore", "$path", "file"] }
+    },
+    {
+        "caption": "Add this file's directory to .gitignore",
+        "command": "git",
+        "args": { "argv": ["smerge-ignore", "$path", "dir"] }
+    }
+]

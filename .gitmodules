@@ -1,0 +1,3 @@
+[submodule "Meetio Theme"]
+	path = Meetio Theme
+	url = https://github.com/meetio-theme/merge-meetio-theme.git
