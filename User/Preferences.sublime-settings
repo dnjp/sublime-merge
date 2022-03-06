@@ -1,21 +1,22 @@
 {
-  "always_show_command_status": false,
-  "font_face": "iA Writer Mono S",
-  "font_options": [
-    "gray_antialias"
-  ],
-  "font_size": 13,
-  "render_commit_dialog_message_at_top": false,
-  "side_bar_layout": "locations_as_column",
-  "tab_size": 8,
-  "theme_font_options": [
-    "gray_antialias"
-  ],
-  "trim_trailing_white_space_on_save": true,
-  // "theme": "auto",
-  // Available themes: Darker, Lighter, Palenight, Deepocean
-  "theme": "Merge Lighter.sublime-theme",
-  "color_scheme": "Meetio Lighter.sublime-color-scheme",
-  /*"editor_path": "/Applications/Neovim.app",*/
-  /*"editor_argument_format": "${file} +${line}",*/
+	"always_show_command_status": false,
+	"dark_color_scheme": "Meetio Darker.sublime-color-scheme",
+	"dark_theme": "Merge Darker.sublime-theme",
+	"font_face": "iA Writer Mono S",
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 13,
+	"light_color_scheme": "Meetio Lighter.sublime-color-scheme",
+	"light_theme": "Merge Lighter.sublime-theme",
+	"render_commit_dialog_message_at_top": false,
+	"side_bar_layout": "commit_graph_as_column",
+	"tab_size": 8,
+	"theme": "auto",
+	"theme_font_options":
+	[
+		"gray_antialias"
+	],
+	"trim_trailing_white_space_on_save": true
 }
